@@ -6,8 +6,9 @@ Getting Started
 
 To use pdfurl, you will need Python 3 and the required dependencies installed on your machine. You can install the dependencies by running the following command in the project directory:
 
-Copy code
+'''
 pip install -r requirements.txt
+'''
 Once the dependencies are installed, you can start using pdfurl by running the following command:
 
 css
